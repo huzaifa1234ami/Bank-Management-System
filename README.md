@@ -35,7 +35,7 @@ To run this project on your Laptop/PC, follow these steps:
    - We use face recognition for client authentication with Python in C# using the `python.net` library.
    - We employ the DeepFace library with Google FaceNet models for face recognition.
    
-3. **Copy Python Codes**:
+3. **Copy Codes**:
    - Copy the two Python code files provided in the repository folder named `Python Codes`.
    - Paste these files in the following directory: `C:\Program Files\Python312\Lib`.
 
